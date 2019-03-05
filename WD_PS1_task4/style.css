@@ -128,8 +128,8 @@ select::-ms-expand {
   background-color: #c19a49;
   color: #fef8eb;
   font-size: 1.3rem;
-  margin-top: 11%;
-  min-height: 11%;
+  margin-top: 13%;
+  min-height: 13%;
   cursor: pointer;
   border: none;
 }
@@ -245,8 +245,8 @@ input[type="checkbox"]:checked + label:after {
   background-color: #c19a49;
   color: #fef8eb;
   font-size: 1.3rem;
-  margin-top: 11%;
-  min-height: 14%;
+  margin-top: 16%;
+  min-height: 16%;
   cursor: pointer;
   border: none;
 }
