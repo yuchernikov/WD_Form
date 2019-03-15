@@ -87,6 +87,7 @@ body {
   color: #fef8eb;
   font-size: 1.2rem;
   min-height: 12%;
+  outline: 0;
 }
 
 input::placeholder {
@@ -122,6 +123,7 @@ select::-ms-expand {
   color: #fef8eb;
   font-size: 1.2rem;
   resize: none;
+  outline: 0;
 }
 
 .form-with-name__submit {
@@ -132,6 +134,7 @@ select::-ms-expand {
   min-height: 13%;
   cursor: pointer;
   border: none;
+  outline: 0;
 }
 
 /* form with sign */
@@ -179,6 +182,7 @@ select::-ms-expand {
   color: #fef8eb;
   font-size: 1.2rem;
   min-height: 16%;
+  outline: 0;
 }
 
 input::placeholder {
@@ -248,4 +252,5 @@ input[type="checkbox"]:checked + label:after {
   min-height: 16%;
   cursor: pointer;
   border: none;
+  outline: 0;
 }
